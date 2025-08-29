@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">An innovative frontend developer hooked on self improvement</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarknows" alt="omarknows" /></a> </p>
-
-- 💬 Ask me about **React, Angular**
+<h3 align="center">Software Engineer</h3>
 
 - 📫 How to reach me **omarknows98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1drySEmVmj62llREL4Dknvt8DcDFSTbKl/view?usp=sharing](https://drive.google.com/file/d/1drySEmVmj62llREL4Dknvt8DcDFSTbKl/view?usp=sharing)
-
-- ⚡ Fun fact **Brendan Eich developed the first version of JavaScript in just 10 days in May 1995**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1drySEmVmj62llREL4Dknvt8DcDFSTbKl/view?usp=sharing](https://drive.google.com/file/d/1-uuxMrcJiPfovD_Uoz4SX5MKgy41bwXv/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats-omarknows-projects.vercel.app/api/top-langs?username=omarknows&show_icons=true&locale=en&layout=compact" alt="omarknows" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-omarknows-projects.vercel.app/api?username=omarknows&show_icons=true&locale=en" alt="omarknows" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarknows&" alt="omarknows" /></p>
